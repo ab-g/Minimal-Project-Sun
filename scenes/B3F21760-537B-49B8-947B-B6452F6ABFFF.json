@@ -1,0 +1,62 @@
+{
+    "@class": "BaseScene",
+    "id": {
+        "uuid": "B3F21760-537B-49B8-947B-B6452F6ABFFF"
+    },
+    "name": "Level",
+    "nodes": [
+        {
+            "@class": "BaseNode",
+            "object3D": {
+                "@class": "BaseObject3D",
+                "id": {
+                    "uuid": "6CAB6C38-A78A-4898-BA30-E06973A861FD"
+                },
+                "name": "UserRootObject",
+                "enabled": true,
+                "visible": false,
+                "hitVisible": true,
+                "transform": {
+                    "@class": "BaseComponentTransformable",
+                    "localTransforms": {
+                        "values": [
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0,
+                            0.0
+                        ]
+                    }
+                },
+                "metadata": {
+                    "importedIdentifier": "",
+                    "importedName": "",
+                    "isBone": false
+                }
+            }
+        }
+    ],
+    "scriptSystem": {
+        "@class": "BaseScriptSystem",
+        "scripts": [
+            {
+                "@class": "Script_Sun",
+                "id": {
+                    "uuid": "99414E6E-C0D9-4511-BD4A-47AFEFB847BC"
+                }
+            }
+        ]
+    },
+    "assetsNames": []
+}

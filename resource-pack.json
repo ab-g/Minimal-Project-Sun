@@ -1,0 +1,19 @@
+{
+    "@class": "ResourcePack",
+    "scenes": {
+        "@class": "StdResourceMapScene",
+        "map": [
+            {
+                "key": {
+                    "uuid": "B3F21760-537B-49B8-947B-B6452F6ABFFF"
+                },
+                "value": {
+                    "@class": "BaseScene",
+                    "id": {
+                        "uuid": "B3F21760-537B-49B8-947B-B6452F6ABFFF"
+                    }
+                }
+            }
+        ]
+    }
+}
